@@ -39,3 +39,7 @@
 *.ipdb
 *.log
 *.tlog
+*.ilk
+*.idb
+*.ipch
+*.suo
