@@ -43,3 +43,5 @@
 *.idb
 *.ipch
 *.suo
+*.vs
+*.db
